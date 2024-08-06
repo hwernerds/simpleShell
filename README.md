@@ -3,7 +3,7 @@
 ## Overview
 
 This program implements a basic command-line shell that can execute Unix/Linux commands with support for input and output redirection. It reads commands from the user, 
-parses them into tokens, and executes them in a child process. The shell supports redirection using "<" and ">", allowing you to manage input and output file streams.
+parses them into tokens, and executes them in a child process. The shell supports redirection using "<" and ">", allowing users to manage input and output file streams.
 
 ## Features
 
