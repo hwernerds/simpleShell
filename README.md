@@ -17,17 +17,17 @@ parses them into tokens, and executes them in a child process. The shell support
 
 1. Compile the program
 
-    gcc -o simple_shell simple_shell.c
+        gcc -o simple_shell simple_shell.c
 
 2. Run the program
 
-    ./simpleShell
+        ./simpleShell
 
 3. Enter commands into the shell! For example:
 
-    ls -l
-    cat < input.txt
-    echo "Hello, World!" > output.txt
+        ls -l
+        cat < input.txt
+        echo "Hello, World!" > output.txt
 
 4. Exit the program
 
